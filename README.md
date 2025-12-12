@@ -21,6 +21,6 @@ Should you have any questions or find any bugs, please feel free to contact Yong
 
 Copyright and License
 ===================================================================================================================================================================
-Copyright (c) 2018–2025 Yongquan Zhao, yongquanzhao181@gmail.com, Ningjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS).
+Copyright (c) 2018–2025 Yongquan Zhao, Ningjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS).
 
 This repository is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license.
