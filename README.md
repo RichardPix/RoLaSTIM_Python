@@ -19,6 +19,10 @@ Note: We have uploaded input and output data as a compressed file, i.e., ‘RoLa
 
 Should you have any questions or find any bugs, please feel free to contact Yongquan Zhao (yongquanzhao181@gmail.com). We will keep maintaining the code. Welcome feedback!
 
+References:
+===================================================================================================================================================================
+Yongquan Zhao, Xiao Zhang, Xuejun Duan, Hui Zou, Desheng Liu, Ronghui Wan. 2026. RoLaSTIM: A novel method for lakeshore type identification and utilization rate assessment. International Journal of Digital Earth. doi: 10.1080/17538947.2026.2633840
+
 Copyright and License
 ===================================================================================================================================================================
 Copyright (c) 2025 Yongquan Zhao, Ningjing Institute of Geography and Limnology, Chinese Academy of Sciences (NIGLAS).
