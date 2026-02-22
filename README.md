@@ -1,42 +1,7 @@
-![zenodo 18730889](https://github.com/user-attachments/assets/c120e713-d3e9-457a-8016-57f201a6b5fc)# RoLaSTIM_Python
+# RoLaSTIM_Python
 RoLaSTIM is an operational lakeshore type identification method to classify lakeshore segments as natural and artificial types.
 
-![Uploading<svg xmlns="http://www.w3.org/2000/svg"
-     width="190.84375" height="20">
-        <linearGradient id="b" x2="0" y2="100%">
-            <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
-            <stop offset="1" stop-opacity=".1"/>
-        </linearGradient>
-        <mask id="a" width="190.84375" height="20">
-            <rect width="190.84375" height="20" rx="3"
-            fill="#fff"/>
-        </mask>
-        <g mask="url(#a)">
-            <path fill="#555" d="M0 0h31.375v20H0z" />
-            <path fill="#007ec6"
-            d="M31.375 0h159.46875v20H31.375z"
-            />
-            <path fill="url(#b)" d="M0 0h190.84375v20H0z" />
-        </g>
-        <g fill="#fff" text-anchor="middle" font-family="DejaVu Sans,
-        Verdana,Geneva,sans-serif" font-size="11">
-            <text x="16.1875" y="15" fill="#010101"
-            fill-opacity=".3">
-                DOI
-            </text>
-            <text x="16.1875" y="14">
-                DOI
-            </text>
-            <text x="110.609375"
-            y="15" fill="#010101" fill-opacity=".3">
-                10.5281/zenodo.18730889
-            </text>
-            <text x="110.609375" y="14">
-                10.5281/zenodo.18730889
-            </text>
-        </g>
-    </svg> zenodo.18730889.svg…]()
-https://doi.org/10.5281/zenodo.18730889
+![zenodo 18730889](https://github.com/user-attachments/assets/c120e713-d3e9-457a-8016-57f201a6b5fc)https://doi.org/10.5281/zenodo.18730889
 
 Version 1.0: December 12, 2025.
 
