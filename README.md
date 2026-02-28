@@ -23,7 +23,7 @@ Should you have any questions or find any bugs, please feel free to contact Yong
 
 References:
 ===================================================================================================================================================================
-Yongquan Zhao, Xiao Zhang, Xuejun Duan, Hui Zou, Desheng Liu, Ronghui Wan. 2026. RoLaSTIM: A novel method for lakeshore type identification and utilization rate assessment. International Journal of Digital Earth, 19(1), 2633840. doi: 10.1080/17538947.2026.2633840
+Yongquan Zhao, Xiao Zhang, Xuejun Duan, Hui Zou, Desheng Liu, Ronghui Wan. 2026. RoLaSTIM: A novel method for lakeshore type identification and utilization rate assessment. International Journal of Digital Earth, 19(1), 2633840. https://doi.org/10.1080/17538947.2026.2633840
 
 Copyright and License
 ===================================================================================================================================================================
